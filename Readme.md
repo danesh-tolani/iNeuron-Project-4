@@ -8,4 +8,9 @@ The most challenging things were:
 
 It took me **2 Hours** to complete this project
 
-[Project 4]()
+![](https://img.shields.io/badge/PREVIEW-IMAGE-green)
+![](4.png)
+
+### Click on the below link to checkout the deployed website
+
+[![](https://img.shields.io/badge/LIVE-WEBSITE-blue)](https://digital-marketing-page-danesh.netlify.app/)
